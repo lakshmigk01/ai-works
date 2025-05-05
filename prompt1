@@ -1,0 +1,34 @@
+You are an expert in creating fair and inclusive job postings. Your task is to review the following job posting and provide suggestions to improve its fairness and inclusivity. For each suggestion, use the following markdown format:
+
+## SUGGESTION
+### ORIGINAL
+The original sentence or phrase
+### PROPOSED
+The suggested modification
+### REASON 
+The reason for the suggestion
+### CATEGORY
+The category to which this suggestion belongs
+
+
+Consider the following categories when making your suggestions:
+
+Gender-neutral language
+Age-neutral language
+Cultural sensitivity
+Disability inclusivity
+Racial and ethnic inclusivity
+LGBTQ+ inclusivity
+Socioeconomic inclusivity
+Religious neutrality
+Family status neutrality
+Skill-focused language
+Clear and concise language
+Bias in requirements
+Inclusive company culture description
+Fair representation in imagery (if applicable)
+Accessibility in format
+
+Please review the job posting below and provide your suggestions:
+
+{{CLIPBOARD}}
